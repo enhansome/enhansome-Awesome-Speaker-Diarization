@@ -1,0 +1,257 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dover-Lap: \"DOVER-Lap: A Method for Combining Overlap-aware Diarization Outputs\", in Proc. IEEE SLT, 2021. (JHU) 📄",
+          "description": "📝 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T18:00:36Z",
+            "owner": "desh2608",
+            "repo": "dover-lap",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DiaCorrect: Error Correction Back-end For Speaker Diarization,\" in Proc. ICASSP, 2024. (BUT) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-26T14:54:53Z",
+            "owner": "BUTSpeechFIT",
+            "repo": "diacorrect",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EENDasP: \"End-to-End Speaker Diarization as Post-Processing\", in Proc. ICASSP, 2021. (Hitachi) 📄",
+          "description": "📝 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-24T05:34:23Z",
+            "owner": "DongKeon",
+            "repo": "EENDasP",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "📌 Post-Processing — 3 papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FS-EEND: \"Frame-wise streaming end-to-end speaker diarization with non-autoregressive self-attention-based attractors,\" in Proc. ICASSP, 2024. (Hangzhou) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T14:07:48Z",
+            "owner": "Audio-WestlakeU",
+            "repo": "FS-EEND",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LS-EEND: \"Long-Form Streaming End-to-End Neural Diarization with Online Attractor Extraction,\" in IEEE/ACM TASLP, 2025. (Westlake) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T14:07:48Z",
+            "owner": "Audio-WestlakeU",
+            "repo": "FS-EEND",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Online speaker diarization of meetings guided by speech separation,\" in Proc. ICASSP, 2024. (LTCI) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-06T10:44:19Z",
+            "owner": "egruttadauria98",
+            "repo": "SSpaVAlDo",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "⚡ Online — 18 papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiCoW: \"Diarization-Conditioned Whisper for Target Speaker Automatic Speech Recognition,\" in Proc. ICASSP, 2025. (BUT) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T19:52:09Z",
+            "owner": "BUTSpeechFIT",
+            "repo": "TS-ASR-Whisper",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "SC-SOT: \"Conditioning the Decoder on Diarized Speaker Information for End-to-End Overlapped Speech Recognition,\" in Proc. Interspeech, 2025. 📄",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"Target Speaker ASR with Whisper,\" in Submitted to ICASSP, 2025. (BUT) 📄",
+              "description": "💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-04T19:52:09Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "TS-ASR-Whisper",
+                "stars": 119
+              }
+            }
+          ]
+        }
+      ],
+      "title": "🗣️ With ASR — 27 papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"DiarizationLM: Speaker Diarization Post-Processing with Large Language Models,\" in Proc. Interspeech, 2024. (Google) 📄",
+          "description": "📄 💻 📝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-12T17:57:16Z",
+            "owner": "google",
+            "repo": "speaker-id",
+            "stars": 454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"DiariST: Streaming Speech Translation with Speaker Diarization,\" in Proc. ICASSP, 2024. (Microsoft) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-19T18:16:36Z",
+            "owner": "Mu-Y",
+            "repo": "DiariST",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "💬 With NLP / LLM / Language — 12 papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔉 Related TTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DiariZen: \"Leveraging Self-Supervised Learning for Speaker Diarization,\" in Proc. ICASSP,\" 2025. (BUT) 📄",
+          "description": "📄 💻 📝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-04T14:39:37Z",
+            "owner": "BUTSpeechFIT",
+            "repo": "DiariZen",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"Efficient and Generalizable Speaker Diarization via Structured Pruning of Self-Supervised Models,\" in arXiv:2506.18623, 2025. (BUT) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-04T14:39:37Z",
+            "owner": "BUTSpeechFIT",
+            "repo": "DiariZen",
+            "stars": 521
+          }
+        }
+      ],
+      "title": "🔄 Self-Supervised — 5 papers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🔊 VoxSRC (VoxCeleb Speaker Recognition Challenge)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📡 M2MeT (Multi-channel Multi-party Meeting Transcription Grand Challenge)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 MISP (Multimodal Information Based Speech Processing)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 DIHARD"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 2020 DIHARD III"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 Etc."
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "📌 CHiME-6"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:57.171Z",
+    "original_repository": "DongKeon/Awesome-Speaker-Diarization",
+    "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Speaker-Diarization",
+    "enhanced_repository_description": null,
+    "title": "🎤 Awesome Speaker Diarization with stars"
+  }
+}
