@@ -110,7 +110,7 @@
             "last_commit": "2026-08-04T19:52:09Z",
             "owner": "BUTSpeechFIT",
             "repo": "TS-ASR-Whisper",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-04T19:52:09Z",
                 "owner": "BUTSpeechFIT",
                 "repo": "TS-ASR-Whisper",
-                "stars": 119
+                "stars": 120
               }
             }
           ]
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:37:23.027Z",
+    "last_updated": "2026-08-16T07:38:46.313Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
     "enhanced_repository": "enhansome/enhansome-Awesome-Speaker-Diarization",
