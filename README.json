@@ -190,7 +190,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 524
+            "stars": 525
           }
         },
         {
@@ -204,7 +204,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 524
+            "stars": 525
           }
         }
       ],
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:57:16.605Z",
+    "last_updated": "2026-08-18T07:48:00.203Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
     "enhanced_repository": "enhansome/enhansome-Awesome-Speaker-Diarization",
