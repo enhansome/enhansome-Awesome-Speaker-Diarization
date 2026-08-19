@@ -45,7 +45,7 @@
             "last_commit": "2026-08-17T05:33:00Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19920
+            "stars": 19926
           }
         },
         {
@@ -683,8 +683,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:48:12.557Z",
+    "last_updated": "2026-08-19T12:10:16.711Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
+    "original_repository_id": 644666432,
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
     "enhanced_repository": "enhansome/enhansome-Awesome-Speaker-Diarization",
     "enhanced_repository_description": null,
