@@ -1,55 +1,221 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Dover-Lap: \"DOVER-Lap: A Method for Combining Overlap-aware Diarization Outputs\", in Proc. IEEE SLT, 2021. (JHU) 📄",
-          "description": "📝 💻",
+          "title": "\"DiaPer: End-to-End Neural Diarization with Perceiver-Based Attractors,\" in IEEE/ACM TASLP, 2024. (BUT) 📄",
+          "description": "💻 📝",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 728712065,
             "language": "Python",
-            "last_commit": "2026-08-03T18:00:36Z",
-            "owner": "desh2608",
-            "repo": "dover-lap",
-            "stars": 94
+            "last_commit": "2024-02-08T20:05:21Z",
+            "owner": "BUTSpeechFIT",
+            "repo": "DiaPer",
+            "stars": 69
           }
         },
         {
           "node_type": "item",
-          "title": "\"DiaCorrect: Error Correction Back-end For Speaker Diarization,\" in Proc. ICASSP, 2024. (BUT) 📄",
+          "title": "\"On the calibration of powerset speaker diarization models,\" in Proc. Interspeech, 2024. (IRIT) 📄",
+          "description": "📄 💻 📝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 774904887,
+            "language": "HTML",
+            "last_commit": "2024-07-16T00:43:26Z",
+            "owner": "FrenchKrab",
+            "repo": "IS2024-powerset-calibration",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"TOLD: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization\", in Proc. ICASSP, 2023. (Alibaba) 📄",
           "description": "💻",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 569959091,
             "language": "Python",
-            "last_commit": "2023-09-26T14:54:53Z",
-            "owner": "BUTSpeechFIT",
-            "repo": "diacorrect",
-            "stars": 18
+            "last_commit": "2026-08-17T05:33:00Z",
+            "owner": "modelscope",
+            "repo": "FunASR",
+            "stars": 19920
           }
         },
         {
           "node_type": "item",
-          "title": "EENDasP: \"End-to-End Speaker Diarization as Post-Processing\", in Proc. ICASSP, 2021. (Hitachi) 📄",
+          "title": "\"Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization\", in Proc. Interspeech, 2023. (Pyannote) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 645718554,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-18T12:02:58Z",
+            "owner": "FrenchKrab",
+            "repo": "IS2023-powerset-diarization",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EEND-EDA (2): “Encoder-Decoder Based Attractor Calculation for End-to-End Neural Diarization”, in IEEE/ACM TASLP, 2022. (Hitachi) 📄",
           "description": "📝 💻",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473163870,
             "language": "Python",
-            "last_commit": "2023-05-24T05:34:23Z",
-            "owner": "DongKeon",
-            "repo": "EENDasP",
-            "stars": 4
+            "last_commit": "2025-04-24T18:18:42Z",
+            "owner": "BUTSpeechFIT",
+            "repo": "EEND",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graph-PIT: \"Utterance-by-utterance overlap-aware neural diarization with Graph-PIT\", in Proc. Interspeech, 2022. (NTT) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 354112045,
+            "language": "Python",
+            "last_commit": "2022-10-14T06:56:27Z",
+            "owner": "fgnt",
+            "repo": "graph_pit",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EEND-VC (1): \"Integrating end-to-end neural and clustering-based diarization: Getting the best of both worlds\", in Proc. ICASSP, 2021. (NTT) 📄",
+          "description": "📝 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 401227699,
+            "language": "Python",
+            "last_commit": "2022-10-18T08:21:12Z",
+            "owner": "nttcslab-sp",
+            "repo": "EEND-vector-clustering",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EEND-VC (2): \"Advances in integration of end-to-end neural and clustering-based diarization for real conversational speech\", in Proc. Interspeech, 2021. (NTT) 📄",
+          "description": "📝 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 401227699,
+            "language": "Python",
+            "last_commit": "2022-10-18T08:21:12Z",
+            "owner": "nttcslab-sp",
+            "repo": "EEND-vector-clustering",
+            "stars": 81
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dover-Lap: \"DOVER-Lap: A Method for Combining Overlap-aware Diarization Outputs\", in Proc. IEEE SLT, 2021. (JHU) 📄",
+              "description": "📝 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292422269,
+                "language": "Python",
+                "last_commit": "2026-08-03T18:00:36Z",
+                "owner": "desh2608",
+                "repo": "dover-lap",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "\"DiaCorrect: Error Correction Back-end For Speaker Diarization,\" in Proc. ICASSP, 2024. (BUT) 📄",
+              "description": "💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692987244,
+                "language": "Python",
+                "last_commit": "2023-09-26T14:54:53Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "diacorrect",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EENDasP: \"End-to-End Speaker Diarization as Post-Processing\", in Proc. ICASSP, 2021. (Hitachi) 📄",
+              "description": "📝 💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644713530,
+                "language": "Python",
+                "last_commit": "2023-05-24T05:34:23Z",
+                "owner": "DongKeon",
+                "repo": "EENDasP",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📌 Post-Processing — 3 papers"
+        }
+      ],
+      "title": "📚 EEND (End-to-End Neural Diarization)-based — 50 papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"PixIT: Joint Training of Speaker Diarization and Speech Separation from Real-world Multi-speaker Recordings,\" in Proc. Odyssey, 2024. 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762176701,
+            "language": "Python",
+            "last_commit": "2025-01-10T19:45:23Z",
+            "owner": "joonaskalda",
+            "repo": "PixIT",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"USED: Universal Speaker Extraction and Diarization,\" in submitted to IEEE/ACM TASLP, 2024. (CUHK) 📄",
+          "description": "🎬 🔗 📝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 687515112,
+            "language": null,
+            "last_commit": "2023-09-18T07:44:28Z",
+            "owner": "msinanyildirim",
+            "repo": "USED-splits",
+            "stars": 1
           }
         }
       ],
-      "title": "📌 Post-Processing — 3 papers"
+      "title": "🔀 With Separation or Target Speaker Extraction — 12 papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +224,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696114426,
             "language": "Python",
             "last_commit": "2026-05-07T14:07:48Z",
             "owner": "Audio-WestlakeU",
@@ -72,6 +239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 696114426,
             "language": "Python",
             "last_commit": "2026-05-07T14:07:48Z",
             "owner": "Audio-WestlakeU",
@@ -86,6 +254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 699409502,
             "language": "Jupyter Notebook",
             "last_commit": "2026-01-06T10:44:19Z",
             "owner": "egruttadauria98",
@@ -97,7 +266,110 @@
       "title": "⚡ Online — 18 papers"
     },
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pyannote 2.0: \"End-to-end speaker segmentation for overlap-aware resegmentation\", in Proc. Interspeech, 2021. (CNRS) 📄",
+          "description": "💻 🎬",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53344691,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-04T17:30:45Z",
+            "owner": "pyannote",
+            "repo": "pyannote-audio",
+            "stars": 10432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pyannote: \"pyannote.audio: neural building blocks for speaker diarization\", in Proc. ICASSP, 2020. (CNRS) 📄",
+          "description": "💻 🎬",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53344691,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-04T17:30:45Z",
+            "owner": "pyannote",
+            "repo": "pyannote-audio",
+            "stars": 10432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NME-SC: “Auto-Tuning Spectral Clustering for Speaker Diarization Using Normalized Maximum Eigengap”, IEEE SPL, 2019. 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227214812,
+            "language": "Python",
+            "last_commit": "2022-04-08T23:02:11Z",
+            "owner": "tango4j",
+            "repo": "Auto-Tuning-Spectral-Clustering",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DNC: \"Discriminative Neural Clustering for Speaker Diarisation\", in Proc. IEEE SLT, 2019. 📄",
+          "description": "💻 📝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216277803,
+            "language": "Python",
+            "last_commit": "2022-04-08T10:12:05Z",
+            "owner": "FlorianKrey",
+            "repo": "DNC",
+            "stars": 79
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "\"Analysis of the but Diarization System for Voxconverse Challenge\", in Proc. ICASSP, 2021. (BUT) 📄",
+              "description": "💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 239834186,
+                "language": "Python",
+                "last_commit": "2024-01-15T09:52:16Z",
+                "owner": "BUTSpeechFIT",
+                "repo": "VBx",
+                "stars": 288
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DCA-PLDA \"A Speaker Verification Backend with Robust Performance across Conditions”, in Computer & Language, 2022. 📄",
+              "description": "💻",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307400341,
+                "language": "Python",
+                "last_commit": "2024-07-23T19:25:58Z",
+                "owner": "luferrer",
+                "repo": "DCA-PLDA",
+                "stars": 46
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "📐 Variational Bayes and HMM — 24 papers"
+        }
+      ],
+      "title": "🔗 Clustering-based — 21 papers"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,6 +378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 856567136,
             "language": "Python",
             "last_commit": "2026-08-04T19:52:09Z",
             "owner": "BUTSpeechFIT",
@@ -125,6 +398,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 856567136,
                 "language": "Python",
                 "last_commit": "2026-08-04T19:52:09Z",
                 "owner": "BUTSpeechFIT",
@@ -138,7 +412,7 @@
       "title": "🗣️ With ASR — 27 papers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -147,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151739799,
             "language": "Python",
             "last_commit": "2025-08-12T17:57:16Z",
             "owner": "google",
             "repo": "speaker-id",
-            "stars": 454
+            "stars": 455
           }
         },
         {
@@ -161,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 688190767,
             "language": "Python",
             "last_commit": "2023-09-19T18:16:36Z",
             "owner": "Mu-Y",
@@ -172,12 +448,169 @@
       "title": "💬 With NLP / LLM / Language — 12 papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "🔉 Related TTS"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"3D-Speaker-Toolkit: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization,\" in arXiv:2403.19971, 2024. (Alibaba) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 610089108,
+            "language": "Python",
+            "last_commit": "2025-12-08T07:20:17Z",
+            "owner": "modelscope",
+            "repo": "3D-Speaker",
+            "stars": 3111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFV-KSD: \"Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization,\" in Submitted to ACM MM, 2024. 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 833221369,
+            "language": "Python",
+            "last_commit": "2024-07-25T05:52:03Z",
+            "owner": "TaoRuijie",
+            "repo": "MFV-KSD",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVA-AVD (AVR-Net): \"AVA-AVD: Audio-Visual Speaker Diarization in the Wild\", in Proc. ACM MM, 2022. 📄",
+          "description": "💻 🎬",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 432958597,
+            "language": "Python",
+            "last_commit": "2022-11-24T02:40:02Z",
+            "owner": "zcxu-eric",
+            "repo": "AVA-AVD",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "\"End-to-End Audio-Visual Neural Speaker Diarization\", in Proc. Interspeech, 2022. (USTC) 📄",
+          "description": "💻 📝",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 556514361,
+            "language": "Shell",
+            "last_commit": "2023-06-26T09:53:47Z",
+            "owner": "mispchallenge",
+            "repo": "misp2022_baseline",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DyViSE: \"DyViSE: Dynamic Vision-Guided Speaker Embedding for Audio-Visual Speaker Diarization\", in Proc. MMSP, 2022. (THU) 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 508967815,
+            "language": "Python",
+            "last_commit": "2022-07-05T07:12:16Z",
+            "owner": "zaocan666",
+            "repo": "DyViSE",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "👁️ With Vision — 21 papers"
     },
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "\"LibriMix: An Open-Source Dataset for Generalizable Speech Separation,\" in arXiv:2005.11262, 2020. 📄",
+          "description": "💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 254625246,
+            "language": "Python",
+            "last_commit": "2024-02-09T14:28:14Z",
+            "owner": "JorisCos",
+            "repo": "LibriMix",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voxconverse: \"Spot the conversation: speaker diarisation in the wild\", in Proc. Interspeech, 2020. (VGG, Naver) 📄",
+          "description": "💻 🔗",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279545997,
+            "language": null,
+            "last_commit": "2022-07-26T18:48:44Z",
+            "owner": "joonson",
+            "repo": "voxconverse",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AliMeeting: \"Summary On The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Grand Challenge,\" in Proc. ICASSP, 2022. (Alibaba) 📄",
+          "description": "🔗 💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 419168564,
+            "language": "Python",
+            "last_commit": "2022-06-10T02:51:32Z",
+            "owner": "yufan-aslp",
+            "repo": "AliMeeting",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ego4D: \" Around the World in 3,000 Hours of Egocentric Video,\" in Proc. CVPR, 2022. (Meta) 📄",
+          "description": "💻 🔗",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411024859,
+            "language": "C",
+            "last_commit": "2022-09-13T21:04:10Z",
+            "owner": "EGO4D",
+            "repo": "audio-visual",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSDWild: Multi-modal Speaker Diarization Dataset in the Wild, in Proc. Interspeech, 2020. 📄",
+          "description": "🔗",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 473860083,
+            "language": "HTML",
+            "last_commit": "2024-01-24T04:00:40Z",
+            "owner": "X-LANCE",
+            "repo": "MSDWILD",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "📊 Dataset — 19 papers"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -186,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 840197516,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 525
+            "stars": 526
           }
         },
         {
@@ -200,54 +634,56 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 840197516,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 525
+            "stars": 526
           }
         }
       ],
       "title": "🔄 Self-Supervised — 5 papers"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "🔊 VoxSRC (VoxCeleb Speaker Recognition Challenge)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📡 M2MeT (Multi-channel Multi-party Meeting Transcription Grand Challenge)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📌 MISP (Multimodal Information Based Speech Processing)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📌 DIHARD"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📌 2020 DIHARD III"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📌 Etc."
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "📌 CHiME-6"
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jim-schwoebel/voice_datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198652612,
+            "language": null,
+            "last_commit": "2024-06-06T10:47:45Z",
+            "owner": "jim-schwoebel",
+            "repo": "voice_datasets",
+            "stars": 2222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wq2012/awesome-diarization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166505931,
+            "language": null,
+            "last_commit": "2026-08-12T13:14:48Z",
+            "owner": "wq2012",
+            "repo": "awesome-diarization",
+            "stars": 1892
+          }
+        }
+      ],
+      "title": "🔗 Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:48:00.203Z",
+    "last_updated": "2026-08-19T07:48:12.557Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
     "enhanced_repository": "enhansome/enhansome-Awesome-Speaker-Diarization",
