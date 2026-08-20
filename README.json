@@ -42,10 +42,10 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-17T05:33:00Z",
+            "last_commit": "2026-08-20T05:07:52Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19926
+            "stars": 19934
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10432
+            "stars": 10435
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10432
+            "stars": 10435
           }
         },
         {
@@ -462,7 +462,7 @@
             "last_commit": "2025-12-08T07:20:17Z",
             "owner": "modelscope",
             "repo": "3D-Speaker",
-            "stars": 3111
+            "stars": 3112
           }
         },
         {
@@ -543,7 +543,7 @@
             "last_commit": "2024-02-09T14:28:14Z",
             "owner": "JorisCos",
             "repo": "LibriMix",
-            "stars": 502
+            "stars": 504
           }
         },
         {
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:16.711Z",
+    "last_updated": "2026-08-20T07:50:19.798Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_id": 644666432,
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
