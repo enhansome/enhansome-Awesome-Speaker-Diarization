@@ -42,10 +42,10 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-20T05:07:52Z",
+            "last_commit": "2026-08-21T04:17:05Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19934
+            "stars": 19952
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2023-10-18T12:02:58Z",
             "owner": "FrenchKrab",
             "repo": "IS2023-powerset-diarization",
-            "stars": 96
+            "stars": 95
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2025-01-10T19:45:23Z",
             "owner": "joonaskalda",
             "repo": "PixIT",
-            "stars": 107
+            "stars": 106
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10435
+            "stars": 10440
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10435
+            "stars": 10440
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 526
+            "stars": 527
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 526
+            "stars": 527
           }
         }
       ],
@@ -660,7 +660,7 @@
             "last_commit": "2024-06-06T10:47:45Z",
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
-            "stars": 2222
+            "stars": 2221
           }
         },
         {
@@ -675,7 +675,7 @@
             "last_commit": "2026-08-12T13:14:48Z",
             "owner": "wq2012",
             "repo": "awesome-diarization",
-            "stars": 1892
+            "stars": 1891
           }
         }
       ],
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:50:19.798Z",
+    "last_updated": "2026-08-21T07:51:02.794Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_id": 644666432,
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
