@@ -45,7 +45,7 @@
             "last_commit": "2026-08-21T04:17:05Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19952
+            "stars": 19964
           }
         },
         {
@@ -229,7 +229,7 @@
             "last_commit": "2026-05-07T14:07:48Z",
             "owner": "Audio-WestlakeU",
             "repo": "FS-EEND",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2026-05-07T14:07:48Z",
             "owner": "Audio-WestlakeU",
             "repo": "FS-EEND",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10440
+            "stars": 10446
           }
         },
         {
@@ -295,7 +295,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10440
+            "stars": 10446
           }
         },
         {
@@ -624,7 +624,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 527
+            "stars": 528
           }
         }
       ],
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:51:02.794Z",
+    "last_updated": "2026-08-22T07:38:26.936Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_id": 644666432,
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
