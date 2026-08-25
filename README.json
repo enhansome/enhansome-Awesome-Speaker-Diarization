@@ -69,10 +69,10 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-21T04:17:05Z",
+            "last_commit": "2026-08-24T14:38:23Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19994
+            "stars": 20005
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-21T04:17:05Z",
+            "last_commit": "2026-08-24T14:38:23Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 19994
+            "stars": 20005
           }
         }
       ],
@@ -465,7 +465,7 @@
             "last_commit": "2026-06-19T22:36:53Z",
             "owner": "juanmc2005",
             "repo": "diart",
-            "stars": 2021
+            "stars": 2022
           }
         }
       ],
@@ -717,10 +717,10 @@
             "archived": false,
             "id": 200722670,
             "language": "Python",
-            "last_commit": "2026-08-24T14:19:26Z",
+            "last_commit": "2026-08-24T21:35:02Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18299
+            "stars": 18316
           }
         }
       ],
@@ -862,7 +862,7 @@
             "last_commit": "2025-12-08T07:20:17Z",
             "owner": "modelscope",
             "repo": "3D-Speaker",
-            "stars": 3114
+            "stars": 3115
           }
         },
         {
@@ -1186,7 +1186,7 @@
             "last_commit": "2026-08-12T13:14:48Z",
             "owner": "wq2012",
             "repo": "awesome-diarization",
-            "stars": 1891
+            "stars": 1892
           }
         }
       ],
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:19.897Z",
+    "last_updated": "2026-08-25T06:23:32.962Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_id": 644666432,
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
