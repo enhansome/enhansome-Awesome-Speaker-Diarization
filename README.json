@@ -72,7 +72,7 @@
             "last_commit": "2026-08-24T14:38:23Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20008
+            "stars": 20023
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-24T14:38:23Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20008
+            "stars": 20023
           }
         }
       ],
@@ -414,7 +414,7 @@
             "last_commit": "2026-05-07T14:07:48Z",
             "owner": "Audio-WestlakeU",
             "repo": "FS-EEND",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-05-07T14:07:48Z",
             "owner": "Audio-WestlakeU",
             "repo": "FS-EEND",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10462
+            "stars": 10470
           }
         }
       ],
@@ -549,7 +549,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10462
+            "stars": 10470
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10462
+            "stars": 10470
           }
         }
       ],
@@ -717,10 +717,10 @@
             "archived": false,
             "id": 200722670,
             "language": "Python",
-            "last_commit": "2026-08-24T21:35:02Z",
+            "last_commit": "2026-08-26T03:10:39Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18318
+            "stars": 18331
           }
         }
       ],
@@ -741,7 +741,7 @@
             "last_commit": "2026-08-04T19:52:09Z",
             "owner": "BUTSpeechFIT",
             "repo": "TS-ASR-Whisper",
-            "stars": 120
+            "stars": 121
           }
         },
         {
@@ -761,7 +761,7 @@
                 "last_commit": "2026-08-04T19:52:09Z",
                 "owner": "BUTSpeechFIT",
                 "repo": "TS-ASR-Whisper",
-                "stars": 120
+                "stars": 121
               }
             }
           ]
@@ -862,7 +862,7 @@
             "last_commit": "2025-12-08T07:20:17Z",
             "owner": "modelscope",
             "repo": "3D-Speaker",
-            "stars": 3115
+            "stars": 3120
           }
         },
         {
@@ -1114,7 +1114,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 528
+            "stars": 530
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 528
+            "stars": 530
           }
         }
       ],
@@ -1171,7 +1171,7 @@
             "last_commit": "2024-06-06T10:47:45Z",
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
-            "stars": 2220
+            "stars": 2221
           }
         },
         {
@@ -1186,7 +1186,7 @@
             "last_commit": "2026-08-12T13:14:48Z",
             "owner": "wq2012",
             "repo": "awesome-diarization",
-            "stars": 1892
+            "stars": 1893
           }
         }
       ],
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:51:51.138Z",
+    "last_updated": "2026-08-26T07:53:30.740Z",
     "original_repository": "DongKeon/Awesome-Speaker-Diarization",
     "original_repository_id": 644666432,
     "original_repository_sha": "c80a854768a7eb92852ebf22535e7b82897bf1ff",
