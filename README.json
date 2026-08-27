@@ -69,10 +69,10 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-27T09:32:44Z",
+            "last_commit": "2026-08-27T17:46:03Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20047
+            "stars": 20050
           }
         },
         {
@@ -333,10 +333,10 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-27T09:32:44Z",
+            "last_commit": "2026-08-27T17:46:03Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20047
+            "stars": 20050
           }
         }
       ],
@@ -507,7 +507,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10478
+            "stars": 10479
           }
         }
       ],
@@ -549,7 +549,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10478
+            "stars": 10479
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10478
+            "stars": 10479
           }
         }
       ],
@@ -717,10 +717,10 @@
             "archived": false,
             "id": 200722670,
             "language": "Python",
-            "last_commit": "2026-08-27T11:22:56Z",
+            "last_commit": "2026-08-27T15:46:00Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18340
+            "stars": 18342
           }
         }
       ],
@@ -1114,7 +1114,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "last_commit": "2026-08-04T14:39:37Z",
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 530
+            "stars": 531
           }
         }
       ],
@@ -1183,7 +1183,7 @@
             "archived": false,
             "id": 166505931,
             "language": null,
-            "last_commit": "2026-08-12T13:14:48Z",
+            "last_commit": "2026-08-27T17:51:49Z",
             "owner": "wq2012",
             "repo": "awesome-diarization",
             "stars": 1893
@@ -1194,7 +1194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:25:16.849Z",
+    "last_updated": "2026-08-27T18:13:44.034Z",
     "original_repository_info": {
       "archived": false,
       "id": 644666432,
