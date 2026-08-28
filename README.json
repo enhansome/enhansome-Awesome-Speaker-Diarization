@@ -16,7 +16,8 @@
             "owner": "nttcslab-sp",
             "repo": "mamba-diarization",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2025 (7 papers)"
@@ -37,7 +38,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "DiaPer",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "FrenchKrab",
             "repo": "IS2024-powerset-calibration",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2024 (9 papers)"
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-27T17:46:03Z",
+            "last_commit": "2026-08-28T18:42:15Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20050
-          }
+            "stars": 20060
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -88,7 +92,8 @@
             "owner": "FrenchKrab",
             "repo": "IS2023-powerset-diarization",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2023 (11 papers)"
@@ -109,7 +114,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "EEND",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "fgnt",
             "repo": "graph_pit",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2022 (10 papers)"
@@ -145,7 +152,8 @@
             "owner": "nttcslab-sp",
             "repo": "EEND-vector-clustering",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -160,7 +168,8 @@
             "owner": "nttcslab-sp",
             "repo": "EEND-vector-clustering",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2021 (7 papers)"
@@ -181,7 +190,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "EEND",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2020 (3 papers)"
@@ -202,7 +212,8 @@
             "owner": "HaoFengyuan",
             "repo": "EEND-IAAE",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2023 (1 paper)"
@@ -223,7 +234,8 @@
             "owner": "hitachi-speech",
             "repo": "EEND",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2019 (2 papers)"
@@ -244,7 +256,8 @@
             "owner": "desh2608",
             "repo": "dover-lap",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -259,7 +272,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "diacorrect",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -274,7 +288,8 @@
             "owner": "DongKeon",
             "repo": "EENDasP",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2021-2024 (3 papers)"
@@ -295,7 +310,8 @@
             "owner": "liyunlongaaa",
             "repo": "NSD-MS2S",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2024 (3 papers)"
@@ -316,7 +332,8 @@
             "owner": "Maokui-He",
             "repo": "NSD-MA-MSE",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2023 (4 papers)"
@@ -333,11 +350,12 @@
             "archived": false,
             "id": 569959091,
             "language": "Python",
-            "last_commit": "2026-08-27T17:46:03Z",
+            "last_commit": "2026-08-28T18:42:15Z",
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20050
-          }
+            "stars": 20060
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2022 (3 papers)"
@@ -358,7 +376,8 @@
             "owner": "dodohow1011",
             "repo": "TS-VAD",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2020-2021 (3 papers)"
@@ -379,7 +398,8 @@
             "owner": "joonaskalda",
             "repo": "PixIT",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -394,7 +414,8 @@
             "owner": "msinanyildirim",
             "repo": "USED-splits",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2024 (7 papers)"
@@ -415,7 +436,8 @@
             "owner": "Audio-WestlakeU",
             "repo": "FS-EEND",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -430,7 +452,8 @@
             "owner": "Audio-WestlakeU",
             "repo": "FS-EEND",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -445,7 +468,8 @@
             "owner": "egruttadauria98",
             "repo": "SSpaVAlDo",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2024-2025 (8 papers)"
@@ -466,7 +490,8 @@
             "owner": "juanmc2005",
             "repo": "diart",
             "stars": 2022
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2021 (4 papers)"
@@ -487,7 +512,8 @@
             "owner": "DonkeyShot21",
             "repo": "uis-rnn-sml",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2020 (1 paper)"
@@ -507,8 +533,9 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10479
-          }
+            "stars": 10481
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2025 (3 papers)"
@@ -529,7 +556,8 @@
             "owner": "fgnt",
             "repo": "speaker_reassignment",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2024 (6 papers)"
@@ -549,8 +577,9 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10479
-          }
+            "stars": 10481
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -564,8 +593,9 @@
             "last_commit": "2026-08-04T17:30:45Z",
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10479
-          }
+            "stars": 10481
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2020-2022 (4 papers)"
@@ -586,7 +616,8 @@
             "owner": "google",
             "repo": "uis-rnn",
             "stars": 1588
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2018 (1 paper)"
@@ -607,7 +638,8 @@
             "owner": "tango4j",
             "repo": "Auto-Tuning-Spectral-Clustering",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -622,7 +654,8 @@
             "owner": "FlorianKrey",
             "repo": "DNC",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2019 (2 papers)"
@@ -643,7 +676,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "DVBx",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2023-2024 (3 papers)"
@@ -664,7 +698,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "VBx",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -679,7 +714,8 @@
             "owner": "luferrer",
             "repo": "DCA-PLDA",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2021-2022 (4 papers)"
@@ -700,7 +736,8 @@
             "owner": "xiaoaaa2",
             "repo": "Ada-sd",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2024 (4 papers)"
@@ -717,11 +754,12 @@
             "archived": false,
             "id": 200722670,
             "language": "Python",
-            "last_commit": "2026-08-27T15:46:00Z",
+            "last_commit": "2026-08-28T18:43:01Z",
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18342
-          }
+            "stars": 18354
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2022 (3 papers)"
@@ -742,7 +780,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "TS-ASR-Whisper",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "group",
@@ -762,7 +801,8 @@
                 "owner": "BUTSpeechFIT",
                 "repo": "TS-ASR-Whisper",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T19:23:15.791Z"
             }
           ]
         }
@@ -785,7 +825,8 @@
             "owner": "google",
             "repo": "speaker-id",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2024 (12 papers)"
@@ -806,7 +847,8 @@
             "owner": "google",
             "repo": "speaker-id",
             "stars": 455
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -821,7 +863,8 @@
             "owner": "Mu-Y",
             "repo": "DiariST",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2024-2025 (7 papers)"
@@ -842,7 +885,8 @@
             "owner": "jagabandhumishra",
             "repo": "W2V-E2E-Language-Diarization",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2023 (2 papers)"
@@ -862,8 +906,9 @@
             "last_commit": "2025-12-08T07:20:17Z",
             "owner": "modelscope",
             "repo": "3D-Speaker",
-            "stars": 3122
-          }
+            "stars": 3124
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -878,7 +923,8 @@
             "owner": "TaoRuijie",
             "repo": "MFV-KSD",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2024 (6 papers)"
@@ -899,7 +945,8 @@
             "owner": "zcxu-eric",
             "repo": "AVA-AVD",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -914,7 +961,8 @@
             "owner": "mispchallenge",
             "repo": "misp2022_baseline",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -929,7 +977,8 @@
             "owner": "zaocan666",
             "repo": "DyViSE",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2022 (3 papers)"
@@ -950,7 +999,8 @@
             "owner": "xiaoxiaomiao323",
             "repo": "MSA",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2024 (1 paper)"
@@ -971,7 +1021,8 @@
             "owner": "mkunes",
             "repo": "w2v2_audioFrameClassification",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2023 (4 papers)"
@@ -992,7 +1043,8 @@
             "owner": "JorisCos",
             "repo": "LibriMix",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -1007,7 +1059,8 @@
             "owner": "joonson",
             "repo": "voxconverse",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -1022,7 +1075,8 @@
             "owner": "yufan-aslp",
             "repo": "AliMeeting",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -1037,7 +1091,8 @@
             "owner": "EGO4D",
             "repo": "audio-visual",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -1052,7 +1107,8 @@
             "owner": "X-LANCE",
             "repo": "MSDWILD",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2020-2022 (5 papers)"
@@ -1073,7 +1129,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "EEND_dataprep",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2023-2024 (4 papers)"
@@ -1094,7 +1151,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "EEND_dataprep",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2022 (3 papers)"
@@ -1115,7 +1173,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
             "stars": 531
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -1130,7 +1189,8 @@
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
             "stars": 531
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔥 2025 (3 papers)"
@@ -1151,7 +1211,8 @@
             "owner": "juanmc2005",
             "repo": "CSDA",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "2022 (2 papers)"
@@ -1172,7 +1233,8 @@
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
             "stars": 2222
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         },
         {
           "node_type": "item",
@@ -1187,14 +1249,15 @@
             "owner": "wq2012",
             "repo": "awesome-diarization",
             "stars": 1893
-          }
+          },
+          "first_seen": "2026-08-28T19:23:15.791Z"
         }
       ],
       "title": "🔗 Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:13:44.034Z",
+    "last_updated": "2026-08-28T19:23:15.791Z",
     "original_repository_info": {
       "archived": false,
       "id": 644666432,
