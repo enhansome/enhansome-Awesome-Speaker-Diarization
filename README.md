@@ -118,7 +118,7 @@
 <details>
 <summary><b>2023 (11 papers)</b></summary>
 
-* "**TOLD**: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [📄](https://arxiv.org/abs/2303.05397) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,214 | 🐛 22 | 🌐 Python | 📅 2026-09-07
+* "**TOLD**: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [📄](https://arxiv.org/abs/2303.05397) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,229 | 🐛 23 | 🌐 Python | 📅 2026-09-07
 * "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (Pyannote) [📄](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html) [💻](https://github.com/FrenchKrab/IS2023-powerset-diarization) ⭐ 95 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2023-10-18
 * "Improving Transformer-based End-to-End Speaker Diarization by Assigning Auxiliary Losses to Attention Heads", in *Proc. ICASSP,* 2023. (HU) [📄](https://arxiv.org/abs/2303.01192)
 * **EEND-NA**: “Neural Diarization with Non-Autoregressive Intermediate Attractors”, in *Proc. ICASSP,* 2023. (LINE)  [📄](https://arxiv.org/abs/2303.06806)
@@ -248,7 +248,7 @@
 <details>
 <summary><b>2022 (3 papers)</b></summary>
 
-* **SOND**: "Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis", in *Proc. EMNLP*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2211.10243) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,214 | 🐛 22 | 🌐 Python | 📅 2026-09-07
+* **SOND**: "Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis", in *Proc. EMNLP*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2211.10243) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,229 | 🐛 23 | 🌐 Python | 📅 2026-09-07
 * **SEND (2)**: "Speaker Embedding-aware Neural Diarization: an Efficient Framework for Overlapping Speech Diarization in Meeting Scenarios," in *arXiv:2203.09767*, 2022 (Alibaba) [📄](https://arxiv.org/abs/2203.09767)
 * **MTEAD**: "Multi-target Filter and Detector for Unknown-number Speaker Diarization", in *IEEE SPL*, 2022. [📄](https://arxiv.org/abs/2203.16007)
 
@@ -413,7 +413,7 @@
 <details open>
 <summary><b>🔥 2025 (3 papers)</b></summary>
 
-* **Pyannote Community-1**: "pyannote.audio 4.0 with community-1 open-source diarization model," 2025. [🔗](https://www.pyannote.ai/blog/community-1) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,515 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2026-09-07
+* **Pyannote Community-1**: "pyannote.audio 4.0 with community-1 open-source diarization model," 2025. [🔗](https://www.pyannote.ai/blog/community-1) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,518 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2026-09-07
 * **E-SHARC**: "End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization," in *IEEE/ACM TASLP,* 2025. (IISC) [📄](https://ieeexplore.ieee.org/abstract/document/10830571/)
 * "Speaker Diarization with Overlapping Community Detection Using Graph Attention Networks and Label Propagation Algorithm," in *Proc. Interspeech,* 2025. [📄](https://arxiv.org/abs/2506.02610)
 
@@ -445,8 +445,8 @@
 <details>
 <summary><b>2020-2022 (4 papers)</b></summary>
 
-* **Pyannote 2.0**: "End-to-end speaker segmentation for overlap-aware resegmentation", in *Proc. Interspeech*, 2021. (CNRS) [📄](https://arxiv.org/abs/2104.04045) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,515 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2026-09-07 [🎬](https://www.youtube.com/watch?v=wDH2rvkjymY)
-* **Pyannote**: "pyannote.audio: neural building blocks for speaker diarization", in *Proc. ICASSP*, 2020. (CNRS) [📄](https://arxiv.org/abs/1911.01255) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,515 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2026-09-07 [🎬](https://www.youtube.com/watch?v=37R_R82lfwA)
+* **Pyannote 2.0**: "End-to-end speaker segmentation for overlap-aware resegmentation", in *Proc. Interspeech*, 2021. (CNRS) [📄](https://arxiv.org/abs/2104.04045) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,518 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2026-09-07 [🎬](https://www.youtube.com/watch?v=wDH2rvkjymY)
+* **Pyannote**: "pyannote.audio: neural building blocks for speaker diarization", in *Proc. ICASSP*, 2020. (CNRS) [📄](https://arxiv.org/abs/1911.01255) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,518 | 🐛 38 | 🌐 Jupyter Notebook | 📅 2026-09-07 [🎬](https://www.youtube.com/watch?v=37R_R82lfwA)
 * **UMAP-Leiden**: "Reformulating Speaker Diarization as Community Detection With Emphasis On Topological Structure", in *Proc. ICASSP*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2204.12112)
 * **Resegmentation with VB**: “Overlap-Aware Diarization: Resegmentation Using Neural End-to-End Overlapped Speech Detection”, in *Proc. ICASSP*, 2020. [📄](https://ieeexplore.ieee.org/document/9053096)
 
@@ -567,7 +567,7 @@
 <details>
 <summary><b>2022 (3 papers)</b></summary>
 
-* **MSDD**: "Multi-scale Speaker Diarization with Dynamic Scale Weighting", in *Proc. Interspeech*, 2022. (NVIDIA) [📄](https://arxiv.org/abs/2203.15974) [💻](https://github.com/NVIDIA/NeMo) ⭐ 18,401 | 🐛 310 | 🌐 Python | 📅 2026-09-07 [🔗](https://developer.nvidia.com/blog/dynamic-scale-weighting-through-multiscale-speaker-diarization/)
+* **MSDD**: "Multi-scale Speaker Diarization with Dynamic Scale Weighting", in *Proc. Interspeech*, 2022. (NVIDIA) [📄](https://arxiv.org/abs/2203.15974) [💻](https://github.com/NVIDIA/NeMo) ⭐ 18,404 | 🐛 313 | 🌐 Python | 📅 2026-09-08 [🔗](https://developer.nvidia.com/blog/dynamic-scale-weighting-through-multiscale-speaker-diarization/)
 * **GAT+AA**: "Multi-scale speaker embedding-based graph attention networks for speaker diarisation", in *Proc. ICASSP*, 2022. (Naver) [📄](https://arxiv.org/abs/2110.03361)
 * **PRISM**: "PRISM: Pre-trained Indeterminate Speaker Representation Model for Speaker Diarization and Speaker Verification", in *Proc. Interspeech*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2205.07450)
 
@@ -1260,4 +1260,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
