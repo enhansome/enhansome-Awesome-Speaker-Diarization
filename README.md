@@ -118,7 +118,7 @@
 <details>
 <summary><b>2023 (11 papers)</b></summary>
 
-* "**TOLD**: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [📄](https://arxiv.org/abs/2303.05397) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,478 | 🐛 35 | 🌐 Python | 📅 2026-09-21
+* "**TOLD**: A Novel Two-Stage Overlap-Aware Framework for Speaker Diarization", in *Proc. ICASSP*, 2023. (Alibaba) [📄](https://arxiv.org/abs/2303.05397) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,494 | 🐛 34 | 🌐 Python | 📅 2026-09-24
 * "Powerset Multi-class Cross Entropy Loss for Neural Speaker Diarization", in *Proc. Interspeech*, 2023. (Pyannote) [📄](https://www.isca-speech.org/archive/interspeech_2023/plaquet23_interspeech.html) [💻](https://github.com/FrenchKrab/IS2023-powerset-diarization) ⭐ 95 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-10-18
 * "Improving Transformer-based End-to-End Speaker Diarization by Assigning Auxiliary Losses to Attention Heads", in *Proc. ICASSP,* 2023. (HU) [📄](https://arxiv.org/abs/2303.01192)
 * **EEND-NA**: “Neural Diarization with Non-Autoregressive Intermediate Attractors”, in *Proc. ICASSP,* 2023. (LINE)  [📄](https://arxiv.org/abs/2303.06806)
@@ -151,8 +151,8 @@
 <details>
 <summary><b>2021 (7 papers)</b></summary>
 
-* **EEND-VC (1)**: "Integrating end-to-end neural and clustering-based diarization: Getting the best of both worlds", in *Proc. ICASSP*, 2021. (NTT) [📄](https://arxiv.org/abs/2010.13366) [📝](https://velog.io/@fbdp1202/EEND-vector-clustering-%EB%A6%AC%EB%B7%B0-Integrating-end-to-end-neural-and-clustering-based-diarization-Getting-the-best-of-both-world) [💻](https://github.com/nttcslab-sp/EEND-vector-clustering) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2022-10-18
-* **EEND-VC (2)**: "Advances in integration of end-to-end neural and clustering-based diarization for real conversational speech", in *Proc. Interspeech*, 2021. (NTT) [📄](https://arxiv.org/abs/2105.09040) [📝](https://velog.io/@fbdp1202/EEND-vector-clustering-%EB%A6%AC%EB%B7%B0-Integrating-end-to-end-neural-and-clustering-based-diarization-Getting-the-best-of-both-world) [💻](https://github.com/nttcslab-sp/EEND-vector-clustering) ⭐ 81 | 🐛 5 | 🌐 Python | 📅 2022-10-18
+* **EEND-VC (1)**: "Integrating end-to-end neural and clustering-based diarization: Getting the best of both worlds", in *Proc. ICASSP*, 2021. (NTT) [📄](https://arxiv.org/abs/2010.13366) [📝](https://velog.io/@fbdp1202/EEND-vector-clustering-%EB%A6%AC%EB%B7%B0-Integrating-end-to-end-neural-and-clustering-based-diarization-Getting-the-best-of-both-world) [💻](https://github.com/nttcslab-sp/EEND-vector-clustering) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2022-10-18
+* **EEND-VC (2)**: "Advances in integration of end-to-end neural and clustering-based diarization for real conversational speech", in *Proc. Interspeech*, 2021. (NTT) [📄](https://arxiv.org/abs/2105.09040) [📝](https://velog.io/@fbdp1202/EEND-vector-clustering-%EB%A6%AC%EB%B7%B0-Integrating-end-to-end-neural-and-clustering-based-diarization-Getting-the-best-of-both-world) [💻](https://github.com/nttcslab-sp/EEND-vector-clustering) ⭐ 82 | 🐛 5 | 🌐 Python | 📅 2022-10-18
 * **CB-EEND**: "End-to-end Neural Diarization: From Transformer to Conformer", in *Proc. Interspeech*, 2021. (Amazon) [📄](https://arxiv.org/abs/2106.07167) [📝](https://velog.io/@fbdp1202/CB-EEND-%EB%A6%AC%EB%B7%B0-End-to-end-Neural-Diarization-From-Transformer-to-Conformer)
 * **TDCN-SA**: "End-to-End Diarization for Variable Number of Speakers with Local-Global Networks and Discriminative Speaker Embeddings", in *Proc. ICASSP*, 2021. (Google) [📄](https://arxiv.org/abs/2105.02096) [📝](https://velog.io/@fbdp1202/TDCN-SA-%EB%A6%AC%EB%B7%B0-End-to-End-Diarization-for-Variable-Number-of-Speakers-with-Local-Global-Networks-and-Discriminative-Speaker-Embeddings)
 * "End-to-End Speaker Diarization Conditioned on Speech Activity and Overlap Detection", in *Proc. IEEE SLT*, 2021. (Hitachi) [📄](https://arxiv.org/abs/2106.04078)
@@ -180,7 +180,7 @@
 <details>
 <summary><b>2019 (2 papers)</b></summary>
 
-* **SA-EEND (1)**: “End-to-End Neural Speaker Diarization with Self-attention”, in *Proc. ASRU*, 2019. (Hitachi) [📄](https://ieeexplore.ieee.org/abstract/document/9003959) [💻](https://github.com/hitachi-speech/EEND) ⭐ 436 | 🐛 23 | 🌐 Python | 📅 2021-08-30 [💻](https://github.com/Xflick/EEND_PyTorch) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2023-06-19 [📝](https://velog.io/@fbdp1202/SA-EEND-%EB%A6%AC%EB%B7%B0-End-to-End-Neural-Speaker-Diarization-with-Self-Attention)
+* **SA-EEND (1)**: “End-to-End Neural Speaker Diarization with Self-attention”, in *Proc. ASRU*, 2019. (Hitachi) [📄](https://ieeexplore.ieee.org/abstract/document/9003959) [💻](https://github.com/hitachi-speech/EEND) ⭐ 437 | 🐛 23 | 🌐 Python | 📅 2021-08-30 [💻](https://github.com/Xflick/EEND_PyTorch) ⭐ 110 | 🐛 7 | 🌐 Python | 📅 2023-06-19 [📝](https://velog.io/@fbdp1202/SA-EEND-%EB%A6%AC%EB%B7%B0-End-to-End-Neural-Speaker-Diarization-with-Self-Attention)
 * **BLSTM-EEND**: "End-to-End Neural Speaker Diarization with Permutation-Free Objectives", in *Proc. Interspeech*, 2019. (Hitachi) [📄](https://arxiv.org/abs/1909.05952)
 
 </details>
@@ -248,7 +248,7 @@
 <details>
 <summary><b>2022 (3 papers)</b></summary>
 
-* **SOND**: "Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis", in *Proc. EMNLP*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2211.10243) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,478 | 🐛 35 | 🌐 Python | 📅 2026-09-21
+* **SOND**: "Speaker Overlap-aware Neural Diarization for Multi-party Meeting Analysis", in *Proc. EMNLP*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2211.10243) [💻](https://github.com/alibaba-damo-academy/FunASR) ⭐ 20,494 | 🐛 34 | 🌐 Python | 📅 2026-09-24
 * **SEND (2)**: "Speaker Embedding-aware Neural Diarization: an Efficient Framework for Overlapping Speech Diarization in Meeting Scenarios," in *arXiv:2203.09767*, 2022 (Alibaba) [📄](https://arxiv.org/abs/2203.09767)
 * **MTEAD**: "Multi-target Filter and Detector for Unknown-number Speaker Diarization", in *IEEE SPL*, 2022. [📄](https://arxiv.org/abs/2203.16007)
 
@@ -413,7 +413,7 @@
 <details open>
 <summary><b>🔥 2025 (3 papers)</b></summary>
 
-* **Pyannote Community-1**: "pyannote.audio 4.0 with community-1 open-source diarization model," 2025. [🔗](https://www.pyannote.ai/blog/community-1) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,587 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-22
+* **Pyannote Community-1**: "pyannote.audio 4.0 with community-1 open-source diarization model," 2025. [🔗](https://www.pyannote.ai/blog/community-1) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,592 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-22
 * **E-SHARC**: "End-to-End Supervised Hierarchical Graph Clustering for Speaker Diarization," in *IEEE/ACM TASLP,* 2025. (IISC) [📄](https://ieeexplore.ieee.org/abstract/document/10830571/)
 * "Speaker Diarization with Overlapping Community Detection Using Graph Attention Networks and Label Propagation Algorithm," in *Proc. Interspeech,* 2025. [📄](https://arxiv.org/abs/2506.02610)
 
@@ -445,8 +445,8 @@
 <details>
 <summary><b>2020-2022 (4 papers)</b></summary>
 
-* **Pyannote 2.0**: "End-to-end speaker segmentation for overlap-aware resegmentation", in *Proc. Interspeech*, 2021. (CNRS) [📄](https://arxiv.org/abs/2104.04045) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,587 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-22 [🎬](https://www.youtube.com/watch?v=wDH2rvkjymY)
-* **Pyannote**: "pyannote.audio: neural building blocks for speaker diarization", in *Proc. ICASSP*, 2020. (CNRS) [📄](https://arxiv.org/abs/1911.01255) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,587 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-22 [🎬](https://www.youtube.com/watch?v=37R_R82lfwA)
+* **Pyannote 2.0**: "End-to-end speaker segmentation for overlap-aware resegmentation", in *Proc. Interspeech*, 2021. (CNRS) [📄](https://arxiv.org/abs/2104.04045) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,592 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-22 [🎬](https://www.youtube.com/watch?v=wDH2rvkjymY)
+* **Pyannote**: "pyannote.audio: neural building blocks for speaker diarization", in *Proc. ICASSP*, 2020. (CNRS) [📄](https://arxiv.org/abs/1911.01255) [💻](https://github.com/pyannote/pyannote-audio) ⭐ 10,592 | 🐛 42 | 🌐 Jupyter Notebook | 📅 2026-09-22 [🎬](https://www.youtube.com/watch?v=37R_R82lfwA)
 * **UMAP-Leiden**: "Reformulating Speaker Diarization as Community Detection With Emphasis On Topological Structure", in *Proc. ICASSP*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2204.12112)
 * **Resegmentation with VB**: “Overlap-Aware Diarization: Resegmentation Using Neural End-to-End Overlapped Speech Detection”, in *Proc. ICASSP*, 2020. [📄](https://ieeexplore.ieee.org/document/9053096)
 
@@ -567,7 +567,7 @@
 <details>
 <summary><b>2022 (3 papers)</b></summary>
 
-* **MSDD**: "Multi-scale Speaker Diarization with Dynamic Scale Weighting", in *Proc. Interspeech*, 2022. (NVIDIA) [📄](https://arxiv.org/abs/2203.15974) [💻](https://github.com/NVIDIA/NeMo) ⭐ 18,489 | 🐛 301 | 🌐 Python | 📅 2026-09-23 [🔗](https://developer.nvidia.com/blog/dynamic-scale-weighting-through-multiscale-speaker-diarization/)
+* **MSDD**: "Multi-scale Speaker Diarization with Dynamic Scale Weighting", in *Proc. Interspeech*, 2022. (NVIDIA) [📄](https://arxiv.org/abs/2203.15974) [💻](https://github.com/NVIDIA/NeMo) ⭐ 18,499 | 🐛 300 | 🌐 Python | 📅 2026-09-23 [🔗](https://developer.nvidia.com/blog/dynamic-scale-weighting-through-multiscale-speaker-diarization/)
 * **GAT+AA**: "Multi-scale speaker embedding-based graph attention networks for speaker diarisation", in *Proc. ICASSP*, 2022. (Naver) [📄](https://arxiv.org/abs/2110.03361)
 * **PRISM**: "PRISM: Pre-trained Indeterminate Speaker Representation Model for Speaker Diarization and Speaker Verification", in *Proc. Interspeech*, 2022. (Alibaba) [📄](https://arxiv.org/abs/2205.07450)
 
@@ -663,7 +663,7 @@
 <details>
 <summary><b>2024 (12 papers)</b></summary>
 
-* **WEEND**: "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network," in *arXiv:2309.08489*, 2024. (Google) [📄](https://arxiv.org/abs/2309.08489) [🔗](https://github.com/google/speaker-id/tree/master/publications/WEEND) ⭐ 456 | 🐛 1 | 🌐 Python | 📅 2025-08-12
+* **WEEND**: "Towards Word-Level End-to-End Neural Speaker Diarization with Auxiliary Network," in *arXiv:2309.08489*, 2024. (Google) [📄](https://arxiv.org/abs/2309.08489) [🔗](https://github.com/google/speaker-id/tree/master/publications/WEEND) ⭐ 457 | 🐛 1 | 🌐 Python | 📅 2025-08-12
 * "Enhancing Speaker Diarization with Large Language Models: A Contextual Beam Search Approach,", in *Proc. ICASSP*, 2024. (NVIDIA) [📄](https://arxiv.org/abs/2309.05248)
 * "One model to rule them all ? Towards End-to-End Joint Speaker Diarization and Speech Recognition", in *Proc. ICASSP*, 2024. (CMU) [📄](https://arxiv.org/abs/2310.01688)
 * "Meeting Recognition with Continuous Speech Separation and Transcription-Supported Diarization," in *arXiv:2309.16482*, 2024. (PU) [📄](https://arxiv.org/abs/2309.16482)
@@ -706,7 +706,7 @@
 <details open>
 <summary><b>🔥 2024-2025 (7 papers)</b></summary>
 
-* "**DiarizationLM**: Speaker Diarization Post-Processing with Large Language Models," in *Proc. Interspeech*, 2024. (Google) [📄](https://www.isca-archive.org/interspeech_2024/wang24h_interspeech.html) [📄](https://arxiv.org/abs/2401.03506) [💻](https://github.com/google/speaker-id/tree/master/DiarizationLM) ⭐ 456 | 🐛 1 | 🌐 Python | 📅 2025-08-12 [📝](https://dongkeon.notion.site/DiarizationLM-1f8eac8794968030839ac145abb0a546?pvs=4)
+* "**DiarizationLM**: Speaker Diarization Post-Processing with Large Language Models," in *Proc. Interspeech*, 2024. (Google) [📄](https://www.isca-archive.org/interspeech_2024/wang24h_interspeech.html) [📄](https://arxiv.org/abs/2401.03506) [💻](https://github.com/google/speaker-id/tree/master/DiarizationLM) ⭐ 457 | 🐛 1 | 🌐 Python | 📅 2025-08-12 [📝](https://dongkeon.notion.site/DiarizationLM-1f8eac8794968030839ac145abb0a546?pvs=4)
 * "**DiariST**: Streaming Speech Translation with Speaker Diarization," in *Proc. ICASSP*, 2024. (Microsoft) [📄](https://arxiv.org/abs/2309.08007) [💻](https://github.com/Mu-Y/DiariST) ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2023-09-19
 * **SpeakerLM**: "End-to-End Versatile Speaker Diarization and Recognition with Multimodal Large Language Models," in *arXiv:2508.06372,* 2025. [📄](https://arxiv.org/abs/2508.06372)
 * "Interactive Real-Time Speaker Diarization Correction with Human Feedback," in *arXiv:2509.18377,* 2025. [📄](https://arxiv.org/abs/2509.18377)
@@ -756,7 +756,7 @@
 <details>
 <summary><b>2024 (6 papers)</b></summary>
 
-* "**3D-Speaker-Toolkit**: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization," in *arXiv:2403.19971*, 2024. (Alibaba) [📄](https://arxiv.org/abs/2403.19971) [💻](https://github.com/modelscope/3D-Speaker) ⭐ 3,152 | 🐛 4 | 🌐 Python | 📅 2025-12-08
+* "**3D-Speaker-Toolkit**: An Open Source Toolkit for Multi-modal Speaker Verification and Diarization," in *arXiv:2403.19971*, 2024. (Alibaba) [📄](https://arxiv.org/abs/2403.19971) [💻](https://github.com/modelscope/3D-Speaker) ⭐ 3,155 | 🐛 4 | 🌐 Python | 📅 2025-12-08
 * **MFV-KSD**: "Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization," in *Submitted to ACM MM,* 2024. [📄](https://arxiv.org/abs/2407.17902) [💻](https://github.com/TaoRuijie/MFV-KSD) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-07-25
 * "Speaker Diarization of Scripted Audiovisual Content," in *arXiv:2308.02160*, 2024. (Amazon) [📄](https://arxiv.org/abs/2308.02160)
 * "**AFL-Net**: Integrating Audio, Facial, and Lip Modalities with Cross-Attention for Robust Speaker Diarization in the Wild," in *Proc. ICASSP*, 2024. (Tencent) [📄](https://arxiv.org/abs/2312.05730) [🎬](https://yyk77.github.io/afl_net.github.io/)
@@ -927,7 +927,7 @@
 
 * "LibriMix: An Open-Source Dataset for Generalizable Speech Separation," in *arXiv:2005.11262*, 2020. [📄](https://arxiv.org/abs/2005.11262) [💻](https://github.com/JorisCos/LibriMix) ⭐ 510 | 🐛 9 | 🌐 Python | 📅 2024-02-09
 * **Voxconverse**: "Spot the conversation: speaker diarisation in the wild", in *Proc. Interspeech*, 2020. (VGG, Naver) [📄](https://arxiv.org/abs/2007.01216) [💻](https://github.com/joonson/voxconverse) ⭐ 170 | 🐛 1 | 📅 2022-07-26 [🔗](https://www.robots.ox.ac.uk/~vgg/data/voxconverse/)
-* **AliMeeting**: "Summary On The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Grand Challenge," in *Proc. ICASSP,* 2022. (Alibaba) [📄](https://arxiv.org/abs/2202.03647) [🔗](https://www.openslr.org/119) [💻](https://github.com/yufan-aslp/AliMeeting) ⭐ 143 | 🐛 7 | 🌐 Python | 📅 2022-06-10
+* **AliMeeting**: "Summary On The ICASSP 2022 Multi-Channel Multi-Party Meeting Transcription Grand Challenge," in *Proc. ICASSP,* 2022. (Alibaba) [📄](https://arxiv.org/abs/2202.03647) [🔗](https://www.openslr.org/119) [💻](https://github.com/yufan-aslp/AliMeeting) ⭐ 144 | 🐛 7 | 🌐 Python | 📅 2022-06-10
 * **Ego4D**: " Around the World in 3,000 Hours of Egocentric Video," in *Proc. CVPR*, 2022. (Meta) [📄](https://arxiv.org/abs/2110.07058) [💻](https://github.com/EGO4D/audio-visual) ⭐ 70 | 🐛 6 | 🌐 C | 📅 2022-09-13 [🔗](https://ego4d-data.org/docs/benchmarks/av-diarization/)
 * **MSDWild**: Multi-modal Speaker Diarization Dataset in the Wild, in *Proc. Interspeech,* 2020. [📄](https://www.isca-speech.org/archive/interspeech_2022/liu22t_interspeech.html) [🔗](https://github.com/X-LANCE/MSDWILD) ⭐ 69 | 🐛 1 | 🌐 HTML | 📅 2024-01-24
 
@@ -1255,9 +1255,9 @@
 
 # 🔗 Other Awesome Lists
 
-* [jim-schwoebel/voice\_datasets](https://github.com/jim-schwoebel/voice_datasets) ⭐ 2,230 | 🐛 27 | 📅 2024-06-06
+* [jim-schwoebel/voice\_datasets](https://github.com/jim-schwoebel/voice_datasets) ⭐ 2,231 | 🐛 27 | 📅 2024-06-06
 * [wq2012/awesome-diarization](https://github.com/wq2012/awesome-diarization) ⭐ 1,903 | 🐛 4 | 📅 2026-09-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

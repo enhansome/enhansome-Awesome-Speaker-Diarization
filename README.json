@@ -100,11 +100,11 @@
             "id": 569959091,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T11:42:39Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-24T02:18:09Z",
+            "open_issues": 34,
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20478,
+            "stars": 20494,
             "topics": [
               "asr",
               "audio",
@@ -225,7 +225,7 @@
             "open_issues": 5,
             "owner": "nttcslab-sp",
             "repo": "EEND-vector-clustering",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:15.791Z"
@@ -246,7 +246,7 @@
             "open_issues": 5,
             "owner": "nttcslab-sp",
             "repo": "EEND-vector-clustering",
-            "stars": 81,
+            "stars": 82,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:15.791Z"
@@ -327,7 +327,7 @@
             "open_issues": 23,
             "owner": "hitachi-speech",
             "repo": "EEND",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "chainer",
               "deep-learning",
@@ -485,11 +485,11 @@
             "id": 569959091,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-21T11:42:39Z",
-            "open_issues": 35,
+            "last_commit": "2026-09-24T02:18:09Z",
+            "open_issues": 34,
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20478,
+            "stars": 20494,
             "topics": [
               "asr",
               "audio",
@@ -759,7 +759,7 @@
             "open_issues": 42,
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10587,
+            "stars": 10592,
             "topics": [
               "overlapped-speech-detection",
               "pretrained-models",
@@ -825,7 +825,7 @@
             "open_issues": 42,
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10587,
+            "stars": 10592,
             "topics": [
               "overlapped-speech-detection",
               "pretrained-models",
@@ -858,7 +858,7 @@
             "open_issues": 42,
             "owner": "pyannote",
             "repo": "pyannote-audio",
-            "stars": 10587,
+            "stars": 10592,
             "topics": [
               "overlapped-speech-detection",
               "pretrained-models",
@@ -1085,11 +1085,11 @@
             "id": 200722670,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T06:51:56Z",
-            "open_issues": 301,
+            "last_commit": "2026-09-23T19:41:14Z",
+            "open_issues": 300,
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18489,
+            "stars": 18499,
             "topics": [
               "asr",
               "deeplearning",
@@ -1182,7 +1182,7 @@
             "open_issues": 1,
             "owner": "google",
             "repo": "speaker-id",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "source-separation",
               "speaker-diarization",
@@ -1215,7 +1215,7 @@
             "open_issues": 1,
             "owner": "google",
             "repo": "speaker-id",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "source-separation",
               "speaker-diarization",
@@ -1296,7 +1296,7 @@
             "open_issues": 4,
             "owner": "modelscope",
             "repo": "3D-Speaker",
-            "stars": 3152,
+            "stars": 3155,
             "topics": [
               "3d-speaker",
               "campplus",
@@ -1520,7 +1520,7 @@
             "open_issues": 7,
             "owner": "yufan-aslp",
             "repo": "AliMeeting",
-            "stars": 143,
+            "stars": 144,
             "topics": [
               "aishell-4",
               "alimeeting",
@@ -1734,7 +1734,7 @@
             "open_issues": 27,
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
-            "stars": 2230,
+            "stars": 2231,
             "topics": [
               "audio-dataset",
               "audio-datasets",
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:42:38.563Z",
+    "last_updated": "2026-09-24T12:40:50.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
