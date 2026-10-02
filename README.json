@@ -100,11 +100,11 @@
             "id": 569959091,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T08:50:22Z",
+            "last_commit": "2026-10-02T04:51:05Z",
             "open_issues": 36,
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20566,
+            "stars": 20570,
             "topics": [
               "asr",
               "audio",
@@ -485,11 +485,11 @@
             "id": 569959091,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T08:50:22Z",
+            "last_commit": "2026-10-02T04:51:05Z",
             "open_issues": 36,
             "owner": "modelscope",
             "repo": "FunASR",
-            "stars": 20566,
+            "stars": 20570,
             "topics": [
               "asr",
               "audio",
@@ -697,7 +697,7 @@
             "open_issues": 55,
             "owner": "juanmc2005",
             "repo": "diart",
-            "stars": 2036,
+            "stars": 2037,
             "topics": [
               "deep-learning",
               "real-time",
@@ -1085,11 +1085,11 @@
             "id": 200722670,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:18:48Z",
-            "open_issues": 327,
+            "last_commit": "2026-10-02T12:09:45Z",
+            "open_issues": 326,
             "owner": "NVIDIA-NeMo",
             "repo": "Speech",
-            "stars": 18536,
+            "stars": 18539,
             "topics": [
               "asr",
               "deeplearning",
@@ -1296,7 +1296,7 @@
             "open_issues": 5,
             "owner": "modelscope",
             "repo": "3D-Speaker",
-            "stars": 3160,
+            "stars": 3161,
             "topics": [
               "3d-speaker",
               "campplus",
@@ -1651,7 +1651,7 @@
             "open_issues": 5,
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 547,
+            "stars": 548,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1672,7 +1672,7 @@
             "open_issues": 5,
             "owner": "BUTSpeechFIT",
             "repo": "DiariZen",
-            "stars": 547,
+            "stars": 548,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1792,7 +1792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:24:16.223Z",
+    "last_updated": "2026-10-02T13:47:23.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
@@ -1801,7 +1801,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-03-24T04:19:52Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "DongKeon",
       "repo": "Awesome-Speaker-Diarization",
       "stars": 372,
