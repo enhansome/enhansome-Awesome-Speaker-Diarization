@@ -105,10 +105,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T04:51:05Z",
-                "open_issues": 37,
+                "open_issues": 39,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20570,
+                "stars": 20573,
                 "topics": [
                   "asr",
                   "audio",
@@ -374,7 +374,7 @@
                     "open_issues": 3,
                     "owner": "desh2608",
                     "repo": "dover-lap",
-                    "stars": 94,
+                    "stars": 95,
                     "topics": [
                       "diarization",
                       "dover-lap",
@@ -512,10 +512,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T04:51:05Z",
-                "open_issues": 37,
+                "open_issues": 39,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20570,
+                "stars": 20573,
                 "topics": [
                   "asr",
                   "audio",
@@ -1072,7 +1072,7 @@
                     "open_issues": 1,
                     "owner": "BUTSpeechFIT",
                     "repo": "VBx",
-                    "stars": 290,
+                    "stars": 291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1157,7 +1157,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T00:39:58Z",
-                "open_issues": 326,
+                "open_issues": 327,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
                 "stars": 18539,
@@ -1397,7 +1397,7 @@
                 "open_issues": 5,
                 "owner": "modelscope",
                 "repo": "3D-Speaker",
-                "stars": 3162,
+                "stars": 3164,
                 "topics": [
                   "3d-speaker",
                   "campplus",
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:26:00.161Z",
+    "last_updated": "2026-10-03T12:26:28.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
