@@ -54,7 +54,7 @@
                 "open_issues": 3,
                 "owner": "BUTSpeechFIT",
                 "repo": "DiaPer",
-                "stars": 69,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -104,11 +104,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:51:05Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-08T06:50:57Z",
+                "open_issues": 39,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20601,
+                "stars": 20613,
                 "topics": [
                   "asr",
                   "audio",
@@ -511,11 +511,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T04:51:05Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-08T06:50:57Z",
+                "open_issues": 39,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20601,
+                "stars": 20613,
                 "topics": [
                   "asr",
                   "audio",
@@ -739,7 +739,7 @@
                 "open_issues": 55,
                 "owner": "juanmc2005",
                 "repo": "diart",
-                "stars": 2038,
+                "stars": 2039,
                 "topics": [
                   "deep-learning",
                   "real-time",
@@ -805,11 +805,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-04T22:32:06Z",
+                "last_commit": "2026-10-07T20:23:46Z",
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10617,
+                "stars": 10622,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -873,11 +873,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-04T22:32:06Z",
+                "last_commit": "2026-10-07T20:23:46Z",
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10617,
+                "stars": 10622,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -906,11 +906,11 @@
                 "id": 53344691,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-04T22:32:06Z",
+                "last_commit": "2026-10-07T20:23:46Z",
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10617,
+                "stars": 10622,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1156,11 +1156,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T14:03:02Z",
-                "open_issues": 337,
+                "last_commit": "2026-10-08T13:44:31Z",
+                "open_issues": 340,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18554,
+                "stars": 18561,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -1261,7 +1261,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "speaker-id",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "source-separation",
                   "speaker-diarization",
@@ -1301,7 +1301,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "speaker-id",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "source-separation",
                   "speaker-diarization",
@@ -1730,7 +1730,7 @@
                     "open_issues": 2,
                     "owner": "BUTSpeechFIT",
                     "repo": "EEND_dataprep",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1758,7 +1758,7 @@
                     "open_issues": 2,
                     "owner": "BUTSpeechFIT",
                     "repo": "EEND_dataprep",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1797,7 +1797,7 @@
                 "open_issues": 5,
                 "owner": "BUTSpeechFIT",
                 "repo": "DiariZen",
-                "stars": 549,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 5,
                 "owner": "BUTSpeechFIT",
                 "repo": "DiariZen",
-                "stars": 549,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1926,7 +1926,7 @@
             "open_issues": 5,
             "owner": "wq2012",
             "repo": "awesome-diarization",
-            "stars": 1906,
+            "stars": 1907,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:24:53.359Z",
+    "last_updated": "2026-10-08T14:31:20.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
