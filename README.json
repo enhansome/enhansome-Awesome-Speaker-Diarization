@@ -108,7 +108,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20632,
+                "stars": 20642,
                 "topics": [
                   "asr",
                   "audio",
@@ -515,7 +515,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20632,
+                "stars": 20642,
                 "topics": [
                   "asr",
                   "audio",
@@ -1156,11 +1156,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T02:17:58Z",
-                "open_issues": 342,
+                "last_commit": "2026-10-11T04:32:24Z",
+                "open_issues": 344,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18568,
+                "stars": 18571,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -1397,7 +1397,7 @@
                 "open_issues": 5,
                 "owner": "modelscope",
                 "repo": "3D-Speaker",
-                "stars": 3168,
+                "stars": 3170,
                 "topics": [
                   "3d-speaker",
                   "campplus",
@@ -1608,7 +1608,7 @@
                 "open_issues": 9,
                 "owner": "JorisCos",
                 "repo": "LibriMix",
-                "stars": 510,
+                "stars": 511,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1886,7 +1886,7 @@
             "open_issues": 27,
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
-            "stars": 2239,
+            "stars": 2240,
             "topics": [
               "audio-dataset",
               "audio-datasets",
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:32:28.629Z",
+    "last_updated": "2026-10-11T13:55:04.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
