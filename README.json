@@ -104,11 +104,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T13:11:37Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-13T03:41:32Z",
+                "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20661,
+                "stars": 20677,
                 "topics": [
                   "asr",
                   "audio",
@@ -511,11 +511,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-10T13:11:37Z",
-                "open_issues": 44,
+                "last_commit": "2026-10-13T03:41:32Z",
+                "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20661,
+                "stars": 20677,
                 "topics": [
                   "asr",
                   "audio",
@@ -653,7 +653,7 @@
                 "open_issues": 9,
                 "owner": "Audio-WestlakeU",
                 "repo": "FS-EEND",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "end-to-end",
                   "frame-wise",
@@ -682,7 +682,7 @@
                 "open_issues": 9,
                 "owner": "Audio-WestlakeU",
                 "repo": "FS-EEND",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "end-to-end",
                   "frame-wise",
@@ -739,7 +739,7 @@
                 "open_issues": 55,
                 "owner": "juanmc2005",
                 "repo": "diart",
-                "stars": 2040,
+                "stars": 2042,
                 "topics": [
                   "deep-learning",
                   "real-time",
@@ -809,7 +809,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10633,
+                "stars": 10638,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -877,7 +877,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10633,
+                "stars": 10638,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -910,7 +910,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10633,
+                "stars": 10638,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1156,11 +1156,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T14:33:16Z",
-                "open_issues": 344,
+                "last_commit": "2026-10-13T14:31:04Z",
+                "open_issues": 345,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18573,
+                "stars": 18575,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -1397,7 +1397,7 @@
                 "open_issues": 5,
                 "owner": "modelscope",
                 "repo": "3D-Speaker",
-                "stars": 3176,
+                "stars": 3177,
                 "topics": [
                   "3d-speaker",
                   "campplus",
@@ -1730,7 +1730,7 @@
                     "open_issues": 2,
                     "owner": "BUTSpeechFIT",
                     "repo": "EEND_dataprep",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1758,7 +1758,7 @@
                     "open_issues": 2,
                     "owner": "BUTSpeechFIT",
                     "repo": "EEND_dataprep",
-                    "stars": 60,
+                    "stars": 61,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1797,7 +1797,7 @@
                 "open_issues": 5,
                 "owner": "BUTSpeechFIT",
                 "repo": "DiariZen",
-                "stars": 552,
+                "stars": 554,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1818,7 +1818,7 @@
                 "open_issues": 5,
                 "owner": "BUTSpeechFIT",
                 "repo": "DiariZen",
-                "stars": 552,
+                "stars": 554,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1886,7 +1886,7 @@
             "open_issues": 27,
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
-            "stars": 2240,
+            "stars": 2239,
             "topics": [
               "audio-dataset",
               "audio-datasets",
@@ -1923,7 +1923,7 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T20:12:39Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "wq2012",
             "repo": "awesome-diarization",
             "stars": 1908,
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:40:19.924Z",
+    "last_updated": "2026-10-13T14:57:01.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
@@ -1956,7 +1956,7 @@
       "open_issues": 0,
       "owner": "DongKeon",
       "repo": "Awesome-Speaker-Diarization",
-      "stars": 373,
+      "stars": 374,
       "topics": [
         "awesome",
         "awesome-list",
