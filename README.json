@@ -108,7 +108,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20690,
+                "stars": 20704,
                 "topics": [
                   "asr",
                   "audio",
@@ -150,7 +150,7 @@
                 "open_issues": 1,
                 "owner": "FrenchKrab",
                 "repo": "IS2023-powerset-diarization",
-                "stars": 95,
+                "stars": 94,
                 "topics": [
                   "interspeech",
                   "pyannote",
@@ -515,7 +515,7 @@
                 "open_issues": 43,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20690,
+                "stars": 20704,
                 "topics": [
                   "asr",
                   "audio",
@@ -809,7 +809,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10645,
+                "stars": 10652,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -877,7 +877,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10645,
+                "stars": 10652,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -910,7 +910,7 @@
                 "open_issues": 44,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10645,
+                "stars": 10652,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1156,11 +1156,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T09:42:04Z",
-                "open_issues": 345,
+                "last_commit": "2026-10-15T10:34:27Z",
+                "open_issues": 358,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18579,
+                "stars": 18583,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -1394,10 +1394,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-12-08T07:20:17Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "modelscope",
                 "repo": "3D-Speaker",
-                "stars": 3179,
+                "stars": 3181,
                 "topics": [
                   "3d-speaker",
                   "campplus",
@@ -1679,7 +1679,7 @@
                 "open_issues": 6,
                 "owner": "EGO4D",
                 "repo": "audio-visual",
-                "stars": 70,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -1922,11 +1922,11 @@
             "id": 166505931,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T20:12:39Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-15T01:31:21Z",
+            "open_issues": 4,
             "owner": "wq2012",
             "repo": "awesome-diarization",
-            "stars": 1908,
+            "stars": 1909,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:49:02.899Z",
+    "last_updated": "2026-10-15T12:36:11.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
