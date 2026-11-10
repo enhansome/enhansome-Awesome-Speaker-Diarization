@@ -104,11 +104,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T04:49:20Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-10T10:05:44Z",
+                "open_issues": 54,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20977,
+                "stars": 20992,
                 "topics": [
                   "asr",
                   "audio",
@@ -511,11 +511,11 @@
                 "id": 569959091,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T04:49:20Z",
-                "open_issues": 51,
+                "last_commit": "2026-11-10T10:05:44Z",
+                "open_issues": 54,
                 "owner": "modelscope",
                 "repo": "FunASR",
-                "stars": 20977,
+                "stars": 20992,
                 "topics": [
                   "asr",
                   "audio",
@@ -598,7 +598,7 @@
                 "open_issues": 3,
                 "owner": "joonaskalda",
                 "repo": "PixIT",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:15.791Z"
@@ -806,10 +806,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-09T05:43:30Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10772,
+                "stars": 10775,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -874,10 +874,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-09T05:43:30Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10772,
+                "stars": 10775,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -907,10 +907,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-11-09T05:43:30Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "pyannote",
                 "repo": "pyannote-audio",
-                "stars": 10772,
+                "stars": 10775,
                 "topics": [
                   "overlapped-speech-detection",
                   "pretrained-models",
@@ -1156,11 +1156,11 @@
                 "id": 200722670,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T17:18:21Z",
+                "last_commit": "2026-11-10T13:20:54Z",
                 "open_issues": 442,
                 "owner": "NVIDIA-NeMo",
                 "repo": "Speech",
-                "stars": 18718,
+                "stars": 18724,
                 "topics": [
                   "asr",
                   "deeplearning",
@@ -1261,7 +1261,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "speaker-id",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "source-separation",
                   "speaker-diarization",
@@ -1301,7 +1301,7 @@
                 "open_issues": 1,
                 "owner": "google",
                 "repo": "speaker-id",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "source-separation",
                   "speaker-diarization",
@@ -1397,7 +1397,7 @@
                 "open_issues": 5,
                 "owner": "modelscope",
                 "repo": "3D-Speaker",
-                "stars": 3213,
+                "stars": 3214,
                 "topics": [
                   "3d-speaker",
                   "campplus",
@@ -1886,7 +1886,7 @@
             "open_issues": 27,
             "owner": "jim-schwoebel",
             "repo": "voice_datasets",
-            "stars": 2244,
+            "stars": 2245,
             "topics": [
               "audio-dataset",
               "audio-datasets",
@@ -1944,7 +1944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T17:23:04.574Z",
+    "last_updated": "2026-11-10T15:30:42.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "Some comprehensive papers about speaker diarization",
